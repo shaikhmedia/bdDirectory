@@ -1,0 +1,13 @@
+.card-body {
+    border-radius: 5px;
+    transform-style: preserve-3d;
+}
+
+.card-body:hover {
+    transform: scale(.98);
+    transition-duration: 300ms;
+}
+
+body {
+    background-color: rgb(204, 203, 255);
+}
